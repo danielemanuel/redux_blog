@@ -38,7 +38,7 @@ Click [here](https://github.com/danielemanuel/redux_blog) then download the .zip
 
 - User can add new post(post data):
 
-  ![new_post](images/id_post.png)
+  ![new_post](images/Id_post.png)
 
 - User can view the details for one specific post and delete it(delete the data):
 
