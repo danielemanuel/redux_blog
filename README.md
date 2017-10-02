@@ -32,7 +32,9 @@ Click [here](https://github.com/danielemanuel/redux_blog) then download the .zip
 - Redux Form implemented for adding a new post
 - lodash library is imported
 
-- User can see all the posts(fetching the data) :
+
+
+- User can see all posts(fetching the data) :
 
   ![home_page](images/Add_new_post.png)
 
